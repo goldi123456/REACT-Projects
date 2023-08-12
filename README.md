@@ -35,6 +35,22 @@ JSX Attributes and make random pics gallery
 #CSS Styling&importing CSS Files in React js
 
 
+<img width="960" alt="Screenshot 2023-08-12 120248" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/67cff976-b705-4c73-a860-9525fb422fc3">
+
+
+<img width="960" alt="Screenshot 2023-08-12 122843" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/ee5f2e20-e285-4e6a-ab18-001afb892dcc">
+
+<img width="960" alt="Screenshot 2023-08-12 122816" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/ff0744a7-127e-4bbd-a8d5-2dc3f58a719d">
+
+
+<img width="960" alt="Screenshot 2023-08-12 122725" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/11e9af7e-4754-41c3-b908-e21ea5b24bab">
+
+
+
+
+
+
+
 
 
 
