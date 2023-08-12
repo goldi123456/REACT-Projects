@@ -47,6 +47,8 @@ JSX Attributes and make random pics gallery
 
 <img width="960" alt="Screenshot 2023-08-12 122725" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/11e9af7e-4754-41c3-b908-e21ea5b24bab">
 
+#use google font
+
 
 
 
