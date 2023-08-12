@@ -19,3 +19,26 @@ my favorite 5 NetflixSeries
 
 <img width="960" alt="Screenshot 2023-08-11 233008" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/f2b3c1c6-3a8b-4b28-98a8-1bdaaf71833a">
 JSX Attributes and make random pics gallery
+
+
+
+<img width="960" alt="Screenshot 2023-08-12 120248" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/03214553-dbaf-4e91-a03b-286eba6cc409">
+
+
+
+<img width="960" alt="Screenshot 2023-08-12 120329" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/ce8cbfd5-98eb-472d-8982-9255337fec65">
+
+
+
+<img width="960" alt="Screenshot 2023-08-12 120316" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/e203125e-fbe5-4158-9940-d21df4faa158">
+
+
+
+
+
+
+
+
+
+
+
