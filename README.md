@@ -45,10 +45,16 @@ JSX Attributes and make random pics gallery
 <img width="960" alt="Screenshot 2023-08-12 122816" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/ff0744a7-127e-4bbd-a8d5-2dc3f58a719d">
 
 
-<img width="960" alt="Screenshot 2023-08-12 122725" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/11e9af7e-4754-41c3-b908-e21ea5b24bab">
+<img width="960" alt="Screenshot 2023-08-12 122725" src="https://github.com/goldi123456/REACT
+-Projects/assets/116554139/11e9af7e-4754-41c3-b908-e21ea5b24bab">
 
 #use google font
 
+
+
+<img width="960" alt="Screenshot 2023-08-12 152446" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/73759c0c-9a84-4f87-a483-145615b1444c">
+<img width="960" alt="Screenshot 2023-08-12 152459" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/a1bffe78-fa4c-4a54-a743-d9a1d292fbe5">
+#Inline CSS Styling
 
 
 
