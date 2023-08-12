@@ -32,6 +32,8 @@ JSX Attributes and make random pics gallery
 
 <img width="960" alt="Screenshot 2023-08-12 120316" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/e203125e-fbe5-4158-9940-d21df4faa158">
 
+#CSS Styling&importing CSS Files in React js
+
 
 
 
