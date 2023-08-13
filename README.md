@@ -67,4 +67,25 @@ JSX Attributes and make random pics gallery
 #React JS Mini-Project#creating Simple Greeting Website using React JS
 
 
+<img width="960" alt="Screenshot 2023-08-13 132141" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/e467b041-4ec3-4f7f-a398-d783ee912745">
+
+<img width="960" alt="Screenshot 2023-08-13 132214" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/4858c524-1128-48e3-bc62-ee12b4bf150d">
+
+<img width="960" alt="Screenshot 2023-08-13 132239" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/d025fcc2-4507-414f-8fd4-2f534f950a86">
+
+<img width="960" alt="Screenshot 2023-08-13 132247" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/dafda4b7-340b-4de4-8101-f52087dcfb45">
+
+<img width="960" alt="Screenshot 2023-08-13 132322" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/ac604475-e5df-4ef4-a059-599c19724db3">
+#React Components
+
+
+
+
+
+
+
+
+
+
+
 
