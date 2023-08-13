@@ -95,6 +95,34 @@ JSX Attributes and make random pics gallery
 <img width="960" alt="Screenshot 2023-08-13 155415" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/25544dcf-d63b-4bce-9674-fb9822d17529">
 #import export concept
 
+<img width="960" alt="Screenshot 2023-08-13 170046" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/2b11c5cd-72e2-481a-adfd-e696ed71c35d">
+
+<img width="960" alt="Screenshot 2023-08-13 170056" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/c143bfbb-6468-4b6b-a061-faa11ce871d7">
+
+<img width="960" alt="Screenshot 2023-08-13 170108" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/34f2cdc2-f98d-4a85-a200-492c58c5d62d">
+
+
+<img width="960" alt="Screenshot 2023-08-13 170141" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/117199a1-cc41-4623-8d44-ce7c4e296006">
+
+#Simple Calculator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
