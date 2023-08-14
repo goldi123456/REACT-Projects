@@ -106,39 +106,17 @@ JSX Attributes and make random pics gallery
 
 #Simple Calculator
 
+<img width="960" alt="Screenshot 2023-08-15 013953" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/94140f73-6d1e-46e3-b726-8560fbda1f6e">
+
+<img width="960" alt="Screenshot 2023-08-15 014015" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/ca34c90d-c533-4146-9b7e-e1ab093c5586">
+
+<img width="960" alt="Screenshot 2023-08-15 014024" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/171affb4-568c-468c-b8fc-351ecdde4884">
+
+<img width="960" alt="Screenshot 2023-08-15 014033" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/117e0f14-ff73-4b34-8fc1-6a24b0df4305">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="960" alt="Screenshot 2023-08-15 014153" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/aaab9d4d-5fce-4f59-b3f9-c8152b7f826f">
+#top 5 netflix series
 
 
 
