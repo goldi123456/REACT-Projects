@@ -118,7 +118,17 @@ JSX Attributes and make random pics gallery
 <img width="960" alt="Screenshot 2023-08-15 014153" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/aaab9d4d-5fce-4f59-b3f9-c8152b7f826f">
 #top 5 netflix series
 
+<img width="960" alt="Screenshot 2023-08-15 202017" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/6f0adc6e-9293-44df-9823-9739a689cf87">
 
+<img width="960" alt="Screenshot 2023-08-15 202029" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/81e2b258-6bff-4466-9019-247c53a06c57">
+
+<img width="960" alt="Screenshot 2023-08-15 202044" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/6e4582f4-3319-4e4b-aa1e-f1f0d16f2168">
+
+<img width="960" alt="Screenshot 2023-08-15 202102" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/2e3f16ab-9fcb-4a23-8930-39e91e73e728">
+
+<img width="960" alt="Screenshot 2023-08-15 202143" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/82bc959d-8ead-4978-8786-6efb3c77abad">
+
+#slot machine game
 
 
 
