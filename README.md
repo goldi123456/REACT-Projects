@@ -139,25 +139,14 @@ JSX Attributes and make random pics gallery
 
 <img width="960" alt="Screenshot 2023-08-16 124021" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/1db444bb-7743-4054-b600-45cd2fb0b562">
 #increment number
+<img width="960" alt="Screenshot 2023-08-16 153610" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/8a822747-c46e-44b5-9d89-9e8222913ea6">
 
+<img width="960" alt="Screenshot 2023-08-16 153621" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/59a0bfa8-57d1-4af8-82e7-a033db98aa4a">
 
+<img width="960" alt="Screenshot 2023-08-16 153628" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/a80e4d3e-5556-42a2-b67b-40e903cd4174">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="960" alt="Screenshot 2023-08-16 153653" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/1e3fb7d0-77e8-49d8-9533-3d10e5ec4099">
+#Display current time
 
 
 
