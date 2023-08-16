@@ -131,6 +131,25 @@ JSX Attributes and make random pics gallery
 
 #slot machine game
 
+<img width="960" alt="Screenshot 2023-08-16 123941" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/f54a967e-12c7-4d3c-a9c4-a4cbf7820db8">
+
+<img width="960" alt="Screenshot 2023-08-16 123954" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/90463d61-93b3-45cf-b373-e2b3456d6c98">
+
+<img width="960" alt="Screenshot 2023-08-16 124008" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/8e051e4f-2ffb-41ad-a124-2b0b6521da79">
+
+<img width="960" alt="Screenshot 2023-08-16 124021" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/1db444bb-7743-4054-b600-45cd2fb0b562">
+#increment number
+
+
+
+
+
+
+
+
+
+
+
 
 
 
