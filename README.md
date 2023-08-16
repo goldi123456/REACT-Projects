@@ -148,6 +148,38 @@ JSX Attributes and make random pics gallery
 <img width="960" alt="Screenshot 2023-08-16 153653" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/1e3fb7d0-77e8-49d8-9533-3d10e5ec4099">
 #Display current time
 
+<img width="960" alt="Screenshot 2023-08-16 183830" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/75b1223d-5d10-40a9-a817-ca0629e052bb">
+
+<img width="960" alt="Screenshot 2023-08-16 183844" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/0adec9ad-3d52-4e61-9a96-30f5200950a1">
+
+<img width="960" alt="Screenshot 2023-08-16 183852" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/4ba2ef95-b778-41d1-8583-98e61d06e1bb">
+
+<img width="960" alt="Screenshot 2023-08-16 183909" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/0ef5f9ef-ddd0-43ec-aa28-35dd396cf2e3">
+#digital Clock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
