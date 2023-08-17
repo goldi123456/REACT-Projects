@@ -158,26 +158,18 @@ JSX Attributes and make random pics gallery
 #digital Clock
 
 
+<img width="960" alt="Screenshot 2023-08-17 124748" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/6174f7ea-b220-4878-8b6b-a9717ad678cb">
+
+<img width="960" alt="Screenshot 2023-08-17 124759" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/faf137f3-d7c7-4c0e-8041-9e08a8503ab1">
+
+
+<img width="960" alt="Screenshot 2023-08-17 124815" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/c88aad98-4081-4ceb-aafe-e7d3e1a4fd0f">
 
 
 
+https://github.com/goldi123456/REACT-Projects/assets/116554139/9374538a-7b74-47e3-8cbe-fe6469f28d6c
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#handling event in reactjs
 
 
 
