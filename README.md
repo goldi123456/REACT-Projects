@@ -183,6 +183,16 @@ https://github.com/goldi123456/REACT-Projects/assets/116554139/da53e1dc-e109-411
 
 #forms
 
+<img width="960" alt="Screenshot 2023-08-27 162139" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/0a7ca866-3557-4a71-9bfe-a3050c9111b3">
+
+<img width="960" alt="Screenshot 2023-08-27 162152" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/149a1110-144e-45b7-8850-a340e0e6ce8a">
+
+<img width="960" alt="Screenshot 2023-08-27 162217" src="https://github.com/goldi123456/REACT-Projects/assets/116554139/78e5f68f-5aab-485b-9f7a-690758d29f4a">
+
+https://github.com/goldi123456/REACT-Projects/assets/116554139/95bba430-ca65-4dee-ada7-ab2665308182
+
+
+
 
 
 
